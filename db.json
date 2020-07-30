@@ -1,15 +1,17 @@
-{
-  "Center Id": "4014",
-  "Center Name Second": "",
-  "Number of center positive patients": 0,
-  "Number of patients admitted with Covid": 0,
-  "Number of patients in-house": 0,
-  "Number of recovered patients": 0,
-  "Number of patients transferred to the hospital with Covid": 0,
-  "Number of patients under investigation": 0,
-  "Number of positive employees": 1,
-  "Number of recovered employees": 1,
-  "Number of employees under investigation": 0,
-  "Number of deaths (patient and employee)": 0,
-  "Imaginary Number": 0
-}
+[
+  {
+    "Center Id": "4014",
+    "Center Name Second": "",
+    "Number of center positive patients": 0,
+    "Number of patients admitted with Covid": 0,
+    "Number of patients in-house": 0,
+    "Number of recovered patients": 0,
+    "Number of patients transferred to the hospital with Covid": 0,
+    "Number of patients under investigation": 0,
+    "Number of positive employees": 1,
+    "Number of recovered employees": 1,
+    "Number of employees under investigation": 0,
+    "Number of deaths (patient and employee)": 0,
+    "Imaginary Number": 0
+  }
+]
